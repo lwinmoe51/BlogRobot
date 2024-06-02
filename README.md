@@ -36,4 +36,4 @@ git checkout bootstrapVersion
 
 [HTML CSS Responsive version](https://blogrobothtmlcssversion.netlify.app/)
 
-[Bootstrap Responsive version][https://blogrobotbootstrapversion.netlify.app/]
+[Bootstrap Responsive version](https://blogrobotbootstrapversion.netlify.app/)
