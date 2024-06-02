@@ -6,7 +6,7 @@ This project have 2 version for now. I seperated with 2 git branches.
 # How to run
 
 ```bash
-git clone 
+git clone git@github.com:lwinmoe51/BlogRobot.git
 ```
 - go to project folder
 
@@ -34,4 +34,6 @@ git checkout bootstrapVersion
 
 # Live View
 
-[click here]()
+[HTML CSS Responsive version](https://blogrobothtmlcssversion.netlify.app/)
+
+[Bootstrap Responsive version][https://blogrobotbootstrapversion.netlify.app/]
